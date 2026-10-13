@@ -1,0 +1,188 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 240 15% 8%;
+    --foreground: 0 0% 98%;
+
+    --card: 240 15% 12%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 240 15% 12%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 270 75% 60%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 320 75% 60%;
+    --secondary-foreground: 0 0% 100%;
+
+    --accent: 220 75% 60%;
+    --accent-foreground: 0 0% 100%;
+
+    --muted: 240 10% 20%;
+    --muted-foreground: 0 0% 70%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 240 15% 20%;
+    --input: 240 15% 20%;
+    --ring: 270 75% 60%;
+
+    --radius: 1rem;
+
+    /* Gradient colors */
+    --gradient-start: 270 75% 60%;
+    --gradient-middle: 320 75% 60%;
+    --gradient-end: 220 75% 60%;
+
+    /* Glass effect */
+    --glass-bg: 240 15% 15%;
+    --glass-border: 0 0% 100%;
+
+    /* Shadow effects */
+    --shadow-glow: 270 75% 60%;
+    --shadow-elegant: 240 15% 5%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    background: linear-gradient(135deg, hsl(var(--background)) 0%, hsl(240 20% 10%) 100%);
+    min-height: 100vh;
+  }
+
+  /* Smooth scroll */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Scrollbar styling */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: hsl(var(--background));
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, hsl(var(--primary)), hsl(var(--secondary)));
+    border-radius: 5px;
+  }
+}
+
+@layer components {
+  /* Glass morphism effect */
+  .glass {
+    background: hsla(var(--glass-bg) / 0.3);
+    backdrop-filter: blur(20px);
+    border: 1px solid hsla(var(--glass-border) / 0.1);
+    box-shadow: 0 8px 32px 0 hsla(var(--shadow-elegant) / 0.4);
+  }
+
+  /* Gradient text */
+  .gradient-text {
+    background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--secondary)), hsl(var(--accent)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Gradient overlay */
+  .gradient-overlay {
+    background: linear-gradient(135deg, 
+      hsla(var(--gradient-start) / 0.6), 
+      hsla(var(--gradient-middle) / 0.5), 
+      hsla(var(--gradient-end) / 0.4)
+    );
+  }
+
+  /* Glow effect */
+  .glow {
+    box-shadow: 0 0 20px hsla(var(--shadow-glow) / 0.4),
+                0 0 40px hsla(var(--shadow-glow) / 0.3),
+                0 0 60px hsla(var(--shadow-glow) / 0.2);
+  }
+
+  .glow-hover {
+    transition: box-shadow 0.3s ease;
+  }
+
+  .glow-hover:hover {
+    box-shadow: 0 0 30px hsla(var(--shadow-glow) / 0.6),
+                0 0 60px hsla(var(--shadow-glow) / 0.4),
+                0 0 90px hsla(var(--shadow-glow) / 0.3);
+  }
+}
+
+@layer utilities {
+  /* Animations */
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+
+  @keyframes fade-in-up {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes scale-in {
+    from {
+      opacity: 0;
+      transform: scale(0.9);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  @keyframes glow-pulse {
+    0%, 100% {
+      box-shadow: 0 0 20px hsla(var(--shadow-glow) / 0.4);
+    }
+    50% {
+      box-shadow: 0 0 40px hsla(var(--shadow-glow) / 0.6);
+    }
+  }
+
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-fade-in-up {
+    animation: fade-in-up 0.8s ease-out;
+  }
+
+  .animate-scale-in {
+    animation: scale-in 0.5s ease-out;
+  }
+
+  .animate-glow-pulse {
+    animation: glow-pulse 2s ease-in-out infinite;
+  }
+}
