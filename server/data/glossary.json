@@ -1,0 +1,112 @@
+{
+  "glossary": [
+    {
+      "term": "Abhaya Mudra",
+      "sanskrit": "अभय मुद्रा",
+      "definition": "Hand gesture of protection, fearlessness, and divine reassurance. The right hand is held upright with palm facing outward and fingers pointing upward.",
+      "category": "Mudra (Hand Gesture)"
+    },
+    {
+      "term": "Tribhanga",
+      "sanskrit": "त्रिभङ्ग",
+      "definition": "A tripartite standing body curvature where the head, torso, and legs bend in opposing diagonal angles, imparting extraordinary fluidity and rhythm to sculpted divine and feminine figures.",
+      "category": "Asana & Posture"
+    },
+    {
+      "term": "Yali (Vyala)",
+      "sanskrit": "व्याल / याळी",
+      "definition": "A mythological composite beast possessing the body of a lion, head of an elephant, and tail of a serpent or peacock. Revered as an auspicious protector and frequent motif on Vijayanagara and Dravidian pillars.",
+      "category": "Iconographic Motif"
+    },
+    {
+      "term": "Salabhanjika (Madanika)",
+      "sanskrit": "शालभञ्जिका / मदनिका",
+      "definition": "A celestial maiden or bracket sculpture depicted breaking or touching a blossoming branch of a Sala tree, symbolizing tree-worship, fertility, and auspicious feminine beauty.",
+      "category": "Sculptural Genre"
+    },
+    {
+      "term": "Vimana",
+      "sanskrit": "विमान",
+      "definition": "The sanctum tower erected directly over the Garbhagriha (inner sanctum) in Dravidian temple architecture, typically stepped and crowned with a domical Shikhara.",
+      "category": "Architectural Element"
+    },
+    {
+      "term": "Shikhara",
+      "sanskrit": "शिखर",
+      "definition": "The superstructure or curvilinear mountain-like tower rising above the sanctum in Nagara architecture, evoking the cosmic axis and sacred Mount Meru.",
+      "category": "Architectural Element"
+    },
+    {
+      "term": "Apasmara (Muyalaka)",
+      "sanskrit": "अपस्मार पुरुष",
+      "definition": "The demon dwarf personifying spiritual ignorance, egoism, and heedlessness, depicted being pinned down beneath Lord Shiva Nataraja's right foot.",
+      "category": "Iconographic Figure"
+    },
+    {
+      "term": "Prabhamandala",
+      "sanskrit": "प्रभामण्डल",
+      "definition": "The halo or aureole of fiery cosmic flames encircling divine figures (especially Chola bronze Natarajas), signifying the boundless cosmos and the dance of energy.",
+      "category": "Iconographic Motif"
+    },
+    {
+      "term": "Ayudha",
+      "sanskrit": "आयुध",
+      "definition": "Sacred attributes, emblems, or weapons held by deities (such as the Trishula, Chakra, Shankha, Damaru, or Gada) symbolizing cosmic faculties and divine governance.",
+      "category": "Iconographic Attribute"
+    },
+    {
+      "term": "Gopuram",
+      "sanskrit": "गोपुरम्",
+      "definition": "Monumental, ornate entrance tower crowning the gateways into South Indian Dravidian temple enclosures, often adorned with multi-tiered polychrome or granite sculptures.",
+      "category": "Architectural Element"
+    }
+  ],
+  "educationalInstitutions": [
+    {
+      "name": "Archaeological Survey of India (ASI)",
+      "url": "https://asi.nic.in",
+      "role": "Premier government organization responsible for archaeological research, conservation, and protection of over 3,690 monuments of national importance."
+    },
+    {
+      "name": "National Museum, New Delhi",
+      "url": "https://nationalmuseumindia.gov.in",
+      "role": "Premier national repository holding world-famous collections of Indus Valley, Maurya, Gupta, Chola, and Pallava sculptures."
+    },
+    {
+      "name": "Government Museum, Egmore (Chennai)",
+      "url": "https://www.chennaimuseum.org",
+      "role": "Celebrated worldwide for having the largest and finest collection of original Pallava and Imperial Chola bronze masterpieces."
+    },
+    {
+      "name": "Indira Gandhi National Centre for the Arts (IGNCA)",
+      "url": "https://ignca.gov.in",
+      "role": "Autonomous trust under the Ministry of Culture dedicated to research, documentation, and dissemination of Indian arts and Silpa Sastras."
+    }
+  ],
+  "canonicalTreatises": [
+    {
+      "title": "Silpa Prakasha",
+      "author": "Ramachandra Mahapatra Kaula Bhattaraka",
+      "century": "c. 10th-12th Century CE",
+      "focus": "Orissan Kalinga temple architecture, yantras, and sculptural placement canons."
+    },
+    {
+      "title": "Manasara Vastusastra",
+      "author": "Sage Manasara tradition",
+      "century": "c. 5th-7th Century CE",
+      "focus": "Comprehensive canonical encyclopedia of Indian architecture, Talamana proportional systems, and iconometry."
+    },
+    {
+      "title": "Mayamata",
+      "author": "Sage Maya tradition",
+      "century": "c. 9th-11th Century CE",
+      "focus": "Dravidian temple architecture, town planning, iconographic installation, and materials."
+    },
+    {
+      "title": "Vishnudharmottara Purana (Citrasutra)",
+      "author": "Classical Indian Sage tradition",
+      "century": "c. 5th-6th Century CE",
+      "focus": "Fundamental theories of painting, sculpture, rasas, proportions, and visual aesthetics."
+    }
+  ]
+}

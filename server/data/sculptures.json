@@ -1,0 +1,450 @@
+{
+  "sculptures": [
+    {
+      "id": "sculpture-01",
+      "name": "Nataraja – Lord of the Cosmic Dance",
+      "sanskritName": "नटराज (आनन्दताण्डव)",
+      "templeId": "temple-01",
+      "templeName": "Brihadisvara Temple (and Chidambaram Nataraja Shrine)",
+      "location": "Thanjavur & Chidambaram, Tamil Nadu",
+      "state": "Tamil Nadu",
+      "region": "South India",
+      "dynasty": "Imperial Chola Dynasty",
+      "period": "11th Century CE (c. 1010 CE)",
+      "material": "Lost-wax cast Bronze / Granite relief",
+      "category": "Deities and Divine Figures",
+      "architecturalStyle": "Dravidian",
+      "dimensions": "Height: 115 cm, Width: 102 cm, Base: 45 cm",
+      "condition": "Exemplary preservation under Archaeological Survey of India (ASI) supervision",
+      "primaryImage": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "The quintessential masterwork of Chola metallurgy depicting Shiva performing the Anandatandava within a cosmic aureole of fire.",
+      "description": "Nataraja represents Shiva in his cosmic dance of creation, preservation, destruction, illusion, and liberation (the Panchakritya). Cast using the traditional Madhuchishtavidhana (cire-perdue / lost-wax process) canonized in the Silpa Sastras, the sculpture embodies an extraordinary balance of kinetic dynamism and transcendental calm.",
+      "iconography": {
+        "mudra": "Abhaya Mudra (right hand dispelling fear) & Gajahasta (elephant-trunk gesture pointing down to the uplifted saving foot)",
+        "ayudhas": "Damaru (hourglass drum of primordial sound / cosmic pulse) & Agni (flame of dissolution and purification)",
+        "pedestal": "Crushing Apasmara Purusha (Muyalaka), the dwarf personifying cosmic ignorance and spiritual forgetfulness",
+        "aura": "Prabhamandala (ring of cosmic fire originating from Makara mythical water beasts)",
+        "symbolism": "Flying matted locks contain the goddess Ganga, the crescent moon, and dhatura flowers, while the right ear bears a man's makara-kundala earring and the left a woman's patra-kundala, symbolizing the Ardhanarishvara union of masculine and feminine principles."
+      },
+      "artisticSignificance": "Celebrated by art historians including Ananda Coomaraswamy and Auguste Rodin as one of humanity's highest sculptural achievements, synthesizing spiritual philosophy with mathematical equilibrium and metallurgical mastery.",
+      "historicalBackground": "Patronized extensively by Queen Sembiyan Mahadevi and King Rajaraja Chola I, Chola bronzes transformed processional worship (Utsava Murti) across medieval South India.",
+      "preservationNotes": "Safeguarded within protected temple sanctums and regional ASI museums. Monitored for bronze disease; cleaned using non-invasive conservation solvents according to national antiquity standards.",
+      "citations": [
+        "Coomaraswamy, Ananda K. 'The Dance of Shiva: Fourteen Indian Essays' (1918).",
+        "Kramrisch, Stella. 'The Hindu Temple', Vol. II, Motilal Banarsidass (1976).",
+        "Sivaramamurti, C. 'South Indian Bronzes', Lalit Kala Akademi (1963)."
+      ],
+      "featured": true
+    },
+    {
+      "id": "sculpture-02",
+      "name": "Madanika – Darpana Sundari (Mirror Maiden)",
+      "sanskritName": "मदनिका (दर्पण सुन्दरी)",
+      "templeId": "temple-02",
+      "templeName": "Chennakeshava Temple",
+      "location": "Belur, Hassan District, Karnataka",
+      "state": "Karnataka",
+      "region": "South India",
+      "dynasty": "Hoysala Dynasty",
+      "period": "12th Century CE (c. 1117 CE)",
+      "material": "Chlorite Schist (Soapstone / Greenstone)",
+      "category": "Dancing Figures and Musicians",
+      "architecturalStyle": "Hoysala",
+      "dimensions": "Height: 92 cm, Depth: 38 cm",
+      "condition": "Intact fine filigree carving; sheltered beneath exterior eaves bracket",
+      "primaryImage": "https://images.unsplash.com/photo-1600100397608-f010e4299b15?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600100397608-f010e4299b15?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1599839575945-a9e5af0c3fa5?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "A sublime bracket maiden admiring her reflection in a convex mirror, carved with astonishing undercut filigree in chlorite schist.",
+      "description": "One of the celebrated 42 Madanika (Salabhanjika) bracket sculptures adorning the exterior and interior capitals of the Chennakeshava Temple at Belur. Commissioned by King Vishnuvardhana to commemorate victory at Talakadu, this masterpiece showcases the exceptional workability of chlorite schist, which hardens upon atmospheric exposure.",
+      "iconography": {
+        "mudra": "Gently holding a circular handheld polished metal mirror with left hand while adjusting a hair lock with the right",
+        "ornamentation": "Layered pearl necklaces, bejeweled waistbands with hanging tassel tassels that can be freely rotated in stone",
+        "attendants": "Flanked by two diminutive maiden attendants holding cosmetic jars and flywhisks (chauri)",
+        "canopy": "Standing beneath a sinuous flowering creeper foliage carved with pierced openwork"
+      },
+      "artisticSignificance": "Exemplifies the pinnacle of micro-undercutting in Hoysala sculpture, where rings, bangles, and beaded cords are detached from the backing stone while remaining structurally unified.",
+      "historicalBackground": "Carved by celebrated royal sculptors (Ruvari), many of whom signed their individual creations with inscriptions beneath the pedestals (e.g., Mallitamma, Dasoja).",
+      "preservationNotes": "Under direct protection of Archaeological Survey of India (ASI Bangalore Circle). Periodic dusting with soft bristles and environmental protection from bird droppings.",
+      "citations": [
+        "Settar, S. 'The Hoysala Temples: Royal Enterprise and Art Architecture', Karnatak University (1992).",
+        "Foekema, Gerard. 'A Complete Guide to Hoysala Temples', Abhinav Publications (1996)."
+      ],
+      "featured": true
+    },
+    {
+      "id": "sculpture-03",
+      "name": "Descent of the Ganga (Arjuna's Penance Bas-Relief)",
+      "sanskritName": "गंगावतरण / अर्जुन तपस्या",
+      "templeId": "temple-03",
+      "templeName": "Group of Monuments at Mamallapuram",
+      "location": "Mamallapuram (Mahabalipuram), Chengalpattu, Tamil Nadu",
+      "state": "Tamil Nadu",
+      "region": "South India",
+      "dynasty": "Pallava Dynasty",
+      "period": "Mid-7th Century CE (c. 630–668 CE, reign of Narasimhavarman I Mamalla)",
+      "material": "Pink Granite open-air living boulder cliff",
+      "category": "Narrative Reliefs",
+      "architecturalStyle": "Pallava",
+      "dimensions": "Length: 29 meters (96 ft), Height: 13 meters (43 ft)",
+      "condition": "Superb open-air preservation; UNESCO World Heritage site",
+      "primaryImage": "https://images.unsplash.com/photo-1621847468516-1ed5d0df56fe?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1621847468516-1ed5d0df56fe?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "The world's largest open-air rock relief carved across two monolithic granite boulders with a natural waterfall cleft.",
+      "description": "This monumental carving depicts the descent of the heavenly river Ganga to earth to redeem the ancestors of King Bhagiratha, alongside the ascetic penance of Arjuna seeking the Pashupatastra weapon from Shiva. Over one hundred figures of gods, celestial nymphs, sages, animals, and water serpents converge upon a central cleft.",
+      "iconography": {
+        "naturalCleft": "Central vertical fissure that served as a hydraulic channel down which actual water was released during festivities",
+        "nagas": "Nagaraja and Nagakanya gracefully ascending the water cleft with hands folded in anjali mudra",
+        "lifeSizedAnimals": "Family of life-sized elephants with playful calves nestled between the mother's legs; realistic wild monkeys and deer",
+        "humor": "Feline ascetic (cat doing mock penance) surrounded by unsuspecting mice, an ironic allusion from the Panchatantra"
+      },
+      "artisticSignificance": "Pioneered monumental narrative sculpture in hard granite, synthesizing secular animal naturalism with profound spiritual devotion and cosmic balance.",
+      "historicalBackground": "Commissioned by the maritime Pallava emperors who traded extensively across Southeast Asia, establishing the Mamallapuram port as a cradle of South Indian art.",
+      "preservationNotes": "Protected as a UNESCO World Heritage monument. Treated with eco-friendly consolidants to prevent salt weathering from the nearby Bay of Bengal.",
+      "citations": [
+        "Ramaswami, N. S. 'Mamallapuram: An Annotated Bibliography', New Era Publications (1980).",
+        "Lockwood, Michael. 'Mamallapuram: A Guide to the Pallava Monuments', Christian Literature Society (1974)."
+      ],
+      "featured": true
+    },
+    {
+      "id": "sculpture-04",
+      "name": "Ravana Shaking Mount Kailasa (Ravananugraha)",
+      "sanskritName": "रावणानुग्रह मूर्ति",
+      "templeId": "temple-04",
+      "templeName": "Kailasa Temple (Cave 16)",
+      "location": "Ellora Caves, Chhatrapati Sambhajinagar, Maharashtra",
+      "state": "Maharashtra",
+      "region": "West India",
+      "dynasty": "Rashtrakuta Dynasty",
+      "period": "8th Century CE (c. 756–774 CE, reign of King Krishna I)",
+      "material": "Monolithic Basalt rock excavation",
+      "category": "Mythological Scenes",
+      "architecturalStyle": "Rashtrakuta Rock-cut",
+      "dimensions": "Height: 4.8 meters, Width: 3.6 meters",
+      "condition": "Deeply recessed monolithic tableau, protected inside lower courtyard gallery",
+      "primaryImage": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "Dramatic monolithic relief showing the demon king Ravana attempting to uproot Mount Kailasa while Shiva effortlessly presses it down with his toe.",
+      "description": "Set into the plinth wall of the colossal Kailasa temple—the largest monolithic rock-cut monument in the world—this dynamic tableau depicts the cosmic tension between Ravana's hubristic brute force and Shiva's effortless divine equanimity.",
+      "iconography": {
+        "ravana": "Multiple muscular arms straining against the bedrock roots of the sacred mountain in dynamic foreshortening",
+        "shivaParvati": "Seated peacefully atop the peak; Parvati recoils in fright, gripping Shiva's arm, while Shiva rests his right big toe on the ground to pin Ravana",
+        "ganas": "Playful goblin attendants (Ganas) mocking Ravana's futile exertion from rocky crags"
+      },
+      "artisticSignificance": "Renowned for its masterly deep-relief chiaroscuro, utilizing subterranean shadows to emphasize spatial depth and dramatic three-dimensionality.",
+      "historicalBackground": "Carved from top to bottom by Rashtrakuta artisans who excavated approximately 200,000 tonnes of basalt rock to reveal the monolithic architectural temple.",
+      "preservationNotes": "Under ASI Aurangabad Circle jurisdiction. Protected from seepage and structural erosion through drainage channels carved into the surrounding rock cliff.",
+      "citations": [
+        "Dhavalikar, M. K. 'Ellora: The Monolithic Marvel', Books & Books (2003).",
+        "Fergusson, James & Burgess, James. 'The Cave Temples of India' (1880)."
+      ],
+      "featured": true
+    },
+    {
+      "id": "sculpture-05",
+      "name": "Surasundari Writing a Love Letter (Patralekhika)",
+      "sanskritName": "पत्रलेखिका सुरसुन्दरी",
+      "templeId": "temple-05",
+      "templeName": "Kandariya Mahadeva Temple",
+      "location": "Khajuraho, Chhatarpur District, Madhya Pradesh",
+      "state": "Madhya Pradesh",
+      "region": "Central India",
+      "dynasty": "Chandela Dynasty",
+      "period": "11th Century CE (c. 1025–1050 CE)",
+      "material": "Buff Sandstone",
+      "category": "Dancing Figures and Musicians",
+      "architecturalStyle": "Nagara",
+      "dimensions": "Height: 78 cm, Width: 32 cm",
+      "condition": "Pristine detail with gentle patina on sheltered exterior jangha wall",
+      "primaryImage": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "A celestial nymph carved in graceful Tribhanga posture, writing love verses on birch bark with a pointed reed stylus.",
+      "description": "Adorning the Jangha (wall zone) of the magnificent Kandariya Mahadeva Temple, this Surasundari reflects the poetic sensibilities of classical Sanskrit literature (Kavya). Her head is tilted in romantic contemplation as she pens verses to her beloved.",
+      "iconography": {
+        "posture": "Exaggerated yet supple Tribhanga (thrice-bent) spinal curvature revealing anatomical sensuality and fluid elegance",
+        "attributes": "Pointed reed stylus in right hand; inscribed birch-bark scroll supported in delicate left fingers",
+        "costume": "Translucent diaphanous drapery indicated by incised wavy striations and elaborate gemstone girdle"
+      },
+      "artisticSignificance": "Embodies the medieval Indian aesthetic ideal of feminine grace and divine ornamentation as prescribed in the Agamas, where beauty on temple walls invokes auspiciousness (Mangala).",
+      "historicalBackground": "Erected during the golden age of Chandela power under King Vidyadhara, celebrating cosmic harmony and devotional ecstasy in central India.",
+      "preservationNotes": "Part of the UNESCO World Heritage Khajuraho Group of Monuments. Sandstone treated with biocide wash and anti-fungal consolidants by the ASI Science Branch.",
+      "citations": [
+        "Desai, Devangana. 'The Religious Imagery of Khajuraho', Franco-Indian Research (1996).",
+        "Prakash, Vidya. 'Khajuraho: A Study in the Cultural Conditions of Chandella Society' (1967)."
+      ],
+      "featured": true
+    },
+    {
+      "id": "sculpture-06",
+      "name": "Surya – The Sun God in Chariot of Seven Horses",
+      "sanskritName": "सूर्य देव (सप्ताश्व रथ)",
+      "templeId": "temple-06",
+      "templeName": "Sun Temple at Konark",
+      "location": "Konark, Puri District, Odisha",
+      "state": "Odisha",
+      "region": "East India",
+      "dynasty": "Eastern Ganga Dynasty",
+      "period": "13th Century CE (c. 1250 CE, King Narasimhadeva I)",
+      "material": "Chlorite and Khondalite Stone",
+      "category": "Deities and Divine Figures",
+      "architecturalStyle": "Kalinga",
+      "dimensions": "Height: 2.5 meters (8.2 ft)",
+      "condition": "Monumental relief preserved on high southern sanctuary niche",
+      "primaryImage": "https://images.unsplash.com/photo-1620619767323-b95a89183081?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1620619767323-b95a89183081?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600100397608-f010e4299b15?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "Colossal green chlorite figure of the Sun God standing erect in his cosmic chariot pulled by seven gallantly rearing horses.",
+      "description": "Installed on the southern facade of the colossal Black Pagoda (Konark), this iconic sculpture of Surya captures the morning sunlight. Surya wears high northern-style riding boots (Udichyavesha) and an armored cuirass, flanked by his consorts Usha and Pratyusha dispelling darkness with bow and arrow.",
+      "iconography": {
+        "samabhanga": "Standing in strict frontal equilibrium (Samabhanga) representing cosmic stability and order (Rta)",
+        "attributes": "Two full-blown lotuses held at shoulder level in upraised hands",
+        "horses": "Seven caparisoned horses leaping forward across the plinth, symbolizing seven days of the week and seven rays of the spectrum",
+        "charioteer": "Aruna (the dawn charioteer) sitting at Surya's feet holding the reins of the solar horses"
+      },
+      "artisticSignificance": "The smooth, lustrous polish of the fine green chlorite provides a striking aesthetic contrast against the weathered weathered Khondalite masonry of the temple sanctuary.",
+      "historicalBackground": "Built by King Narasimhadeva I to honor the Sun God for military triumphs and royal sovereignty on the Bay of Bengal coastline.",
+      "preservationNotes": "Under intensive restoration by ASI and international heritage consultants. Sandstone plinths fortified against coastal salinity and wind erosion.",
+      "citations": [
+        "Donaldson, Thomas E. 'Hindu Temple Art of Orissa', E.J. Brill (1985).",
+        "Behera, K. S. 'Konark: The Heritage of Mankind', Aryan Books International (1996)."
+      ],
+      "featured": true
+    },
+    {
+      "id": "sculpture-07",
+      "name": "Yali Monolithic Pillar Carving",
+      "sanskritName": "व्याल / याळी स्तम्भ",
+      "templeId": "temple-07",
+      "templeName": "Vittala Temple",
+      "location": "Hampi, Vijayanagara District, Karnataka",
+      "state": "Karnataka",
+      "region": "South India",
+      "dynasty": "Vijayanagara Empire",
+      "period": "16th Century CE (c. 1513–1542 CE, reign of Krishnadevaraya)",
+      "material": "Hard Grey Granite",
+      "category": "Pillar and Wall Carvings",
+      "architecturalStyle": "Vijayanagara",
+      "dimensions": "Height: 3.2 meters, Column Width: 75 cm",
+      "condition": "Excellently preserved within open Kalyana Mandapa pavilion",
+      "primaryImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600100397608-f010e4299b15?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "A ferocious composite beast rearing dynamically from a single monolithic granite pillar with an armed equestrian rider.",
+      "description": "The quintessential architectural motif of Vijayanagara hall design, this Yali (Vyala) combines the body of a lion, head of an elephant (Gaja-Vyala), and tail of a serpent. It rears up on its hind legs over an elephant, bearing a martial rider clutching a dagger.",
+      "iconography": {
+        "compositeForm": "Simha (lion strength), Gaja (elephant wisdom/might), and Ashva (horse speed) synthesized into a royal guardian chimera",
+        "sculpturalTechnique": "Carved out of single massive granite blocks together with surrounding musical colonnettes that resonate with musical notes when tapped",
+        "stoneBall": "Features a freely rolling stone ball carved inside the open gaping jaws of the beast that cannot be extracted"
+      },
+      "artisticSignificance": "Demonstrates the unmatched ability of Vijayanagara stonemasons to work extremely hard igneous granite with the delicacy traditionally reserved for soft schist or wood.",
+      "historicalBackground": "Built during the zenith of the Vijayanagara Empire when Hampi was among the most populous and prosperous imperial capitals of the Renaissance world.",
+      "preservationNotes": "Protected within UNESCO World Heritage monuments at Hampi. Protective cordons safeguard musical colonnettes from acoustic wear.",
+      "citations": [
+        "Verghese, Anila. 'Archaeology, Art and Religion: The Vijayanagara Empire', Oxford University Press (2000).",
+        "Michell, George. 'Architecture and Art of Southern India: Vijayanagara and the Successor States', Cambridge University Press (1995)."
+      ],
+      "featured": true
+    },
+    {
+      "id": "sculpture-08",
+      "name": "Kakatiya Bracket Figure – The Slender Huntress",
+      "sanskritName": "काकतीय मदनिका / व्याध वनिता",
+      "templeId": "temple-08",
+      "templeName": "Ramappa (Ramalingeswara) Temple",
+      "location": "Palampet, Mulugu District, Telangana",
+      "state": "Telangana",
+      "region": "South India",
+      "dynasty": "Kakatiya Dynasty",
+      "period": "13th Century CE (1213 CE, General Recharla Rudra)",
+      "material": "Black Basalt / Dolerite",
+      "category": "Dancing Figures and Musicians",
+      "architecturalStyle": "Vesara",
+      "dimensions": "Height: 2.1 meters, Width: 48 cm",
+      "condition": "Lustrous mirror finish intact; UNESCO World Heritage designated in 2021",
+      "primaryImage": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "Exquisite elongated dancing bracket figure carved from jet-black dolerite with a mirror-smooth metallic luster.",
+      "description": "One of 12 monumental bracket figures (Madanikas) supporting the roof eaves of the Ramappa Temple. Unlike other contemporary regional styles, Kakatiya sculptors depicted tall, slender, athletic women in dynamic dance postures based on Jayapa Senani's treatise Nritta Ratnavali.",
+      "iconography": {
+        "posture": "Elongated limbs poised in energetic Bharatanatyam / Perini Sivatandavam foot movements",
+        "finish": "Jet-black basalt polished to an incandescent mirror sheen that reflects light in outdoor ambiance",
+        "details": "Fine jewelry, bow and quiver, braided hair, and delicate fingernails rendered with crystalline precision"
+      },
+      "artisticSignificance": "Described by traveler Marco Polo as 'the brightest star in the galaxy of temples.' Unique integration of lightweight floating bricks and sandbox foundation engineering.",
+      "historicalBackground": "Built by Kakatiya general Recharla Rudra during the reign of Ganapati Deva, named uniquely after its chief master architect, Ramappa.",
+      "preservationNotes": "Awarded UNESCO World Heritage status in 2021. Monitored continuously for seismic resistance and sandstone plinth preservation by ASI Hyderabad Circle.",
+      "citations": [
+        "Sastry, P. V. Parabrahma. 'The Kakatiyas of Warangal', Government of Andhra Pradesh (1978).",
+        "Wagoner, Phillip B. 'Tidings of the King: A Translation and Ethnohistorical Analysis of the Rayavacakamu' (1993)."
+      ],
+      "featured": true
+    },
+    {
+      "id": "sculpture-09",
+      "name": "Colossal Monolithic Nandi",
+      "sanskritName": "महा नन्दीश्वर",
+      "templeId": "temple-09",
+      "templeName": "Veerabhadra Temple complex",
+      "location": "Lepakshi, Sri Sathya Sai District, Andhra Pradesh",
+      "state": "Andhra Pradesh",
+      "region": "South India",
+      "dynasty": "Vijayanagara Empire",
+      "period": "16th Century CE (c. 1530–1540 CE, Virupanna and Veeranna)",
+      "material": "Monolithic Granite boulder",
+      "category": "Animal Sculptures",
+      "architecturalStyle": "Vijayanagara",
+      "dimensions": "Length: 8.23 meters (27 ft), Height: 4.5 meters (15 ft)",
+      "condition": "Pristine open-air monument, facing the Nagalinga across 200 meters",
+      "primaryImage": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "One of India's largest monolithic Nandi bulls, carved with immaculate proportions and heavy ornamental bell chains.",
+      "description": "Carved out of a single enormous granite outcrop, this colossal bull sits in regal repose with its head tilted upward facing the colossal seven-hooded Nagalinga at the Lepakshi temple. Its expression combines alertness with meditative peace.",
+      "iconography": {
+        "garlands": "Multi-tiered beaded necklaces, suspended bronze bells with finely carved clappers, and embroidered saddle cloth",
+        "ears": "Alert, cocked ears listening intently for Shiva's whispered commands",
+        "hump": "Smoothly contoured massive hump symbolizing immense strength surrendered in complete devotion (Bhakti)"
+      },
+      "artisticSignificance": "Celebrated for its monumental proportions that do not sacrifice refined anatomical fidelity, representing one of the finest zoomorphic sculptures in Indian art.",
+      "historicalBackground": "Commissioned by the royal treasurer brothers Virupanna and Veeranna during the reign of King Achyuta Deva Raya.",
+      "preservationNotes": "Maintained by ASI Amaravati Circle. Protective landscape buffer isolates the monument from traffic vibrations.",
+      "citations": [
+        "Gopala Rao, S. 'Lepakshi: Art and Architecture', Andhra Pradesh Lalit Kala Akademi (1985).",
+        "Sivaramamurti, C. 'Vijayanagara Paintings and Sculptures', Publications Division (1981)."
+      ],
+      "featured": false
+    },
+    {
+      "id": "sculpture-10",
+      "name": "Gaja-Lakshmi Lustration Relief",
+      "sanskritName": "गजलक्ष्मी अभिषेक",
+      "templeId": "temple-10",
+      "templeName": "Virupaksha Temple at Pattadakal",
+      "location": "Pattadakal, Bagalkot District, Karnataka",
+      "state": "Karnataka",
+      "region": "South India",
+      "dynasty": "Early Western Chalukyas of Badami",
+      "period": "8th Century CE (c. 740 CE, Queen Lokamahadevi)",
+      "material": "Red Sandstone lintel relief",
+      "category": "Pillar and Wall Carvings",
+      "architecturalStyle": "Vesara",
+      "dimensions": "Height: 65 cm, Length: 140 cm",
+      "condition": "Excellently preserved above main sanctum entrance lintel (Lalatabimba)",
+      "primaryImage": "https://images.unsplash.com/photo-1600100397608-f010e4299b15?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600100397608-f010e4299b15?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "Auspicious lintel carving of Goddess Lakshmi seated on a lotus, being lustrated with holy pots by two royal elephants.",
+      "description": "Positioned at the auspicious threshold above the inner sanctum of the Queen's temple at Pattadakal. The composition signifies royal sovereignty, agricultural fertility, and spiritual purification.",
+      "iconography": {
+        "padmasana": "Goddess seated cross-legged on a double-petaled lotus blooming from cosmic waters",
+        "elephants": "Two majestic elephants with raised trunks inverting sacred Kalasha water pitchers above her crown",
+        "mudras": "Abhaya Mudra granting blessings; left hand holding a lotus bud of spiritual enlightenment"
+      },
+      "artisticSignificance": "Exemplifies the transitional Vesara aesthetic synthesizing northern Nagara curvilinear motifs with southern Dravidian tier articulation.",
+      "historicalBackground": "Built by Queen Lokamahadevi to commemorate King Vikramaditya II's victory over the Pallavas of Kanchipuram.",
+      "preservationNotes": "Part of the UNESCO World Heritage site at Pattadakal. Monitored for sandstone exfoliation by ASI Dharwad Circle.",
+      "citations": [
+        "Michell, George. 'Early Western Chalukyan Temples', Antiquity (1975).",
+        "Tarr, Gary. 'Chronology and Development of the Chalukya Cave Temples' (1970)."
+      ],
+      "featured": false
+    },
+    {
+      "id": "sculpture-11",
+      "name": "Kaliya Mardana (Krishna Taming Serpent Kaliya)",
+      "sanskritName": "कालिया मर्दन (नागान्तक कृष्ण)",
+      "templeId": "temple-01",
+      "templeName": "Thanjavur Art Gallery / Rajaraja Museum collection",
+      "location": "Thanjavur, Tamil Nadu",
+      "state": "Tamil Nadu",
+      "region": "South India",
+      "dynasty": "Chola Dynasty",
+      "period": "Early 11th Century CE",
+      "material": "Lost-wax cast Bronze",
+      "category": "Mythological Scenes",
+      "architecturalStyle": "Chola",
+      "dimensions": "Height: 68 cm, Width: 32 cm",
+      "condition": "Flawless dark bronze patina, intact iconography",
+      "primaryImage": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "Dynamic Chola bronze showing child Krishna dancing lightly on the multi-headed venomous serpent Kaliya.",
+      "description": "This celebrated bronze portrays the Bhagavata Purana episode where the young Krishna leaps into the Yamuna river to subdue the venomous serpent Kaliya, transforming terror into divine play (Lila).",
+      "iconography": {
+        "dancePose": "Left foot dancing atop the principal hood of Kaliya while the right foot is suspended in buoyant agility",
+        "tailGrip": "Left hand firmly gripping the serpent's tail, while the right hand makes the fearless Abhaya Mudra",
+        "naginis": "Serpent's wives pleading with folded hands for Kaliya's life, showing reverence for divine compassion"
+      },
+      "artisticSignificance": "Celebrated for its masterly distribution of center of gravity, balancing a heavy bronze figure on the slender neck of a coiled snake.",
+      "historicalBackground": "Created under Chola royal patronage to be taken out in temple processions during Janmashtami festivals.",
+      "preservationNotes": "Stored in humidity-controlled vitrines at the Thanjavur Royal Palace Art Gallery with periodic conservation inspections.",
+      "citations": [
+        "Nagaswamy, R. 'Masterpieces of Early South Indian Bronzes', National Museum (1983).",
+        "Dehejia, Vidya. 'Chola: Sacred Bronzes of Southern India', Royal Academy of Arts (2007)."
+      ],
+      "featured": false
+    },
+    {
+      "id": "sculpture-12",
+      "name": "Varaha Rescuing Bhudevi (Cosmic Boar Relief)",
+      "sanskritName": "वराह अवतार (भूदेवी उद्धरण)",
+      "templeId": "temple-11",
+      "templeName": "Udayagiri Caves (Cave 5)",
+      "location": "Vidisha District, Madhya Pradesh",
+      "state": "Madhya Pradesh",
+      "region": "Central India",
+      "dynasty": "Gupta Empire",
+      "period": "Early 5th Century CE (c. 401–412 CE, reign of Chandragupta II Vikramaditya)",
+      "material": "Natural Sandstone rock-cut facade",
+      "category": "Narrative Reliefs",
+      "architecturalStyle": "Nagara",
+      "dimensions": "Height: 4 meters (13.1 ft), Width: 7 meters (23 ft)",
+      "condition": "Superb classical preservation; rock surface weathered naturally with great nobility",
+      "primaryImage": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "shortDescription": "Monumental Gupta rock-cut relief depicting the third avatar of Vishnu rescuing the Earth Goddess from cosmic deluge.",
+      "description": "Widely regarded as the supreme iconographic milestone of classical Gupta sculpture. The colossal Boar-headed Varaha steps forward with his left leg raised upon the serpent king Shesha, gently holding Bhudevi suspended by her hand from his tusk.",
+      "iconography": {
+        "heroicStance": "Pratyalidha warrior posture symbolising cosmic triumph over disorder and darkness",
+        "bhudevi": "Earth Goddess seated gently on the crook of Varaha's arm, expressing trust and serenity",
+        "cosmicOcean": "Parallel wavy lines representing cosmic waters with river goddesses Ganga and Yamuna standing on their respective aquatic mounts"
+      },
+      "artisticSignificance": "The quintessential artistic manifesto of the Gupta Golden Age, unifying political allegory of imperial unity with profound Vaishnava cosmology.",
+      "historicalBackground": "Created under the direct patronage of Chandragupta II's minister Virasena 'Saba' during the consolidation of western Indian territories.",
+      "preservationNotes": "Protected national monument under ASI Bhopal Circle. Rock face sheltered with stone drip-moldings to avert rainwater run-off.",
+      "citations": [
+        "Williams, Joanna Gottfried. 'The Art of Gupta India: Empire and Province', Princeton University Press (1982).",
+        "Harle, J. C. 'Gupta Sculpture: Indian Sculpture of the Fourth to the Sixth Centuries A.D.', Oxford (1974)."
+      ],
+      "featured": false
+    }
+  ]
+}

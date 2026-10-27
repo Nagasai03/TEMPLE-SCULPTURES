@@ -1,0 +1,92 @@
+{
+  "timeline": [
+    {
+      "id": "period-01",
+      "era": "Classical Foundations (Gupta & Vakataka Era)",
+      "timeSpan": "4th – 6th Century CE",
+      "dynasties": "Gupta Empire, Vakataka Dynasty",
+      "keyMonuments": "Udayagiri Caves (Cave 5 Varaha), Nachna Kuthara, Deogarh Dashavatara, Ajanta & Elephanta Caves",
+      "description": "Establishment of canonical iconography, proportional canons (Talamana), and the transition from free-standing wood/brick shrines to stone carving.",
+      "sculpturalTechnique": "Subtle modeling of anatomical contours, diaphanous clinging garments, spiritual serenity with downcast contemplative eyes.",
+      "keySculptures": ["sculpture-12"],
+      "primaryMaterial": "Sandstone, Basalt rock excavation"
+    },
+    {
+      "id": "period-02",
+      "era": "Early Medieval Rock-Cut Genesis (Pallava & Early Chalukya)",
+      "timeSpan": "7th – 8th Century CE",
+      "dynasties": "Pallavas of Kanchipuram, Early Western Chalukyas of Badami",
+      "keyMonuments": "Mamallapuram (Arjuna's Penance, Pancha Rathas), Badami Cave Temples, Aihole Durga Temple, Pattadakal Virupaksha",
+      "description": "Monumental stone carving in open-air boulders and cave shrines. Transition from rock excavation to structural stone masonry.",
+      "sculpturalTechnique": "Slender, naturalistic human forms in granite; narrative bas-reliefs integrated with natural landscapes; early synthesis of northern and southern styles.",
+      "keySculptures": ["sculpture-03", "sculpture-10"],
+      "primaryMaterial": "Granite, Red Sandstone"
+    },
+    {
+      "id": "period-03",
+      "era": "Monolithic Grandeur & Zenith of Rock Architecture (Rashtrakuta)",
+      "timeSpan": "8th – 9th Century CE",
+      "dynasties": "Rashtrakuta Dynasty",
+      "keyMonuments": "Kailasa Temple (Cave 16) at Ellora, Elephanta Trimurti",
+      "description": "Carving entire multi-story temple complexes out of living basalt mountains from the summit downward.",
+      "sculpturalTechnique": "Dramatic chiaroscuro with deep undercut shadows, heroic proportions, dynamic foreshortening, and monumental narrative scenes.",
+      "keySculptures": ["sculpture-04"],
+      "primaryMaterial": "Deccan Trap Basalt"
+    },
+    {
+      "id": "period-04",
+      "era": "Imperial Splendor & Metallurgical Mastery (Chola Golden Age)",
+      "timeSpan": "10th – 12th Century CE",
+      "dynasties": "Imperial Cholas of Thanjavur & Gangaikonda Cholapuram",
+      "keyMonuments": "Brihadisvara Temple (Thanjavur), Airavatesvara Temple (Darasuram), Chidambaram Nataraja",
+      "description": "Granite Vimanas soaring over 60 meters and perfection of lost-wax cire-perdue cast bronzes for mobile temple processions.",
+      "sculpturalTechnique": "Madhuchishtavidhana bronze casting, kinetic balance of Anandatandava pose, crisp granite niche carvings.",
+      "keySculptures": ["sculpture-01", "sculpture-11"],
+      "primaryMaterial": "Hard Granite, Lost-wax Panchaloha Bronze"
+    },
+    {
+      "id": "period-05",
+      "era": "Nagara Curvilinear Heights & Sensuous Elegance (Chandela & Solanki)",
+      "timeSpan": "10th – 12th Century CE",
+      "dynasties": "Chandela Dynasty of Jejakabhukti, Solankis of Gujarat",
+      "keyMonuments": "Kandariya Mahadeva & Lakshmana Temples (Khajuraho), Sun Temple (Modhera), Rani ki Vav (Patan)",
+      "description": "Complex clustering of mini-spires (Urushringas) creating rhythmic mountain silhouettes; celebration of cosmic abundance through Mithuna and Surasundari figures.",
+      "sculpturalTechnique": "Supple Tribhanga poses in warm buff sandstone, exquisite details of jewelry, musical instruments, and textiles.",
+      "keySculptures": ["sculpture-05"],
+      "primaryMaterial": "Buff Sandstone, Marble"
+    },
+    {
+      "id": "period-06",
+      "era": "Astronomical Chariots & Eastern Mastery (Kalinga School)",
+      "timeSpan": "11th – 13th Century CE",
+      "dynasties": "Somavamsi, Eastern Ganga Dynasty",
+      "keyMonuments": "Lingaraja Temple (Bhubaneswar), Jagannath Temple (Puri), Konark Sun Temple",
+      "description": "Integration of the Rekha Deula sanctum tower with stepped Pidhi Jagamohana halls and monumental celestial chariot designs.",
+      "sculpturalTechnique": "High polish on dark green chlorite, monumental stone wheels functioning as solar sundials, expressive musician maidens.",
+      "keySculptures": ["sculpture-06"],
+      "primaryMaterial": "Chlorite, Khondalite, Laterite"
+    },
+    {
+      "id": "period-07",
+      "era": "Intricate Filigree & Stellate Horizons (Hoysala & Kakatiya)",
+      "timeSpan": "12th – 13th Century CE",
+      "dynasties": "Hoysala Empire, Kakatiya Dynasty",
+      "keyMonuments": "Belur Chennakeshava, Halebidu Hoysaleswara, Somanathapura, Ramappa Temple (Palampet)",
+      "description": "Star-shaped ground plans and micro-carving in soft soapstone that allowed sculptors to sign their individual creations; mirror-polished dolerite and lightweight floating bricks.",
+      "sculpturalTechnique": "Pierced openwork, rotatable stone beads, lace-like bracket maidens (Madanikas), and mirror sheen polish.",
+      "keySculptures": ["sculpture-02", "sculpture-08"],
+      "primaryMaterial": "Chlorite Schist (Soapstone), Black Basalt / Dolerite"
+    },
+    {
+      "id": "period-08",
+      "era": "Monumental Pillars & Royal Resurgence (Vijayanagara & Nayaka)",
+      "timeSpan": "14th – 17th Century CE",
+      "dynasties": "Vijayanagara Empire, Nayakas of Madurai, Thanjavur & Gingee",
+      "keyMonuments": "Hampi Vittala & Virupaksha, Lepakshi Veerabhadra, Meenakshi Amman (Madurai), Srirangam Ranganathaswamy",
+      "description": "Expansive thousand-pillared halls (Ayirakkal Mandapa), acoustic musical columns, colossal monolithic Nandis, and rearing Yali columns.",
+      "sculpturalTechnique": "Virtuosic carving of hard grey granite, kinetic rearing mythical beasts, and monumental gopuram stucco reliefs.",
+      "keySculptures": ["sculpture-07", "sculpture-09"],
+      "primaryMaterial": "Coarse & Fine Granite, Polychrome Stucco"
+    }
+  ]
+}

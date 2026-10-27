@@ -1,0 +1,190 @@
+{
+  "styles": [
+    {
+      "id": "dravidian",
+      "name": "Dravidian Style",
+      "sanskritTerm": "द्राविड़ वास्तुशैल्यम्",
+      "categoryType": "Architectural Style",
+      "primaryRegion": "South India (Tamil Nadu, Karnataka, Andhra Pradesh, Kerala)",
+      "historicalSpan": "7th Century CE – 17th Century CE",
+      "primaryMaterials": "Granite, Charnockite, Sandstone, Lost-wax cast Bronze",
+      "coreFeatures": [
+        "Stepped pyramidal sanctum tower known as the Vimana",
+        "Towering monumental entrance gateway towers known as Gopurams",
+        "Compound enclosure wall (Prakara) with cloistered pillared corridors",
+        "Octagonal or domical crowning cupola (Shikhara / Stupika) surmounted by a single Kalasha finial",
+        "Enclosed pillared assembly halls (Mandapa, Ardhamandapa, Mahamandapa)"
+      ],
+      "sculpturalHallmarks": "Dynamic movement in relief, monumental guardian Dvarapalas with crossed clubs, serene bronze processional deities (Utsava Murtis), and extensive epigraphic friezes along the plinth (Adhisthana).",
+      "canonicalMonuments": [
+        "Brihadisvara Temple, Thanjavur (Tamil Nadu)",
+        "Shore Temple & Pancha Rathas, Mamallapuram (Tamil Nadu)",
+        "Meenakshi Amman Temple, Madurai (Tamil Nadu)",
+        "Airavatesvara Temple, Darasuram (Tamil Nadu)"
+      ],
+      "dynasticDistinction": "Dravidian represents an overarching architectural taxonomic category defined in the Manasara and Mayamata treatises. It was championed successively by the Pallava, Chola, Pandya, Vijayanagara, and Nayaka dynasties, each introducing distinct innovations (e.g., Pallavas introduced monolithic rock-cut forms; Cholas perfected soaring Vimanas; Nayakas expanded multi-acre corridors and massive Gopurams).",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "nagara",
+      "name": "Nagara Style",
+      "sanskritTerm": "नागर वास्तुशैल्यम्",
+      "categoryType": "Architectural Style",
+      "primaryRegion": "North & Central India (Madhya Pradesh, Rajasthan, Gujarat, Uttar Pradesh)",
+      "historicalSpan": "5th Century CE – 13th Century CE",
+      "primaryMaterials": "Buff Sandstone, Red Sandstone, White Marble, Granite",
+      "coreFeatures": [
+        "Beehive-shaped curvilinear sanctuary tower (Shikhara) curving gently inward towards the summit",
+        "Large fluted circular stone disk crowning the spire called the Amalaka",
+        "Crowning water pitcher finial (Kalasha) atop the Amalaka",
+        "Elevated plinth platform (Jagati) accessed via grand stone stairs",
+        "Cruciform ground plan with projection bays (Rathas: Triratha, Pancharatha, Saptaratha)"
+      ],
+      "sculpturalHallmarks": "High sensuality and organic plasticity; cascading vertical bands of celestial Surasundaris, Dikpalas, and auspicious Mithuna figures celebrating worldly abundance and divine bliss.",
+      "canonicalMonuments": [
+        "Kandariya Mahadeva Temple, Khajuraho (Madhya Pradesh)",
+        "Sun Temple, Modhera (Gujarat)",
+        "Dilwara Jain Temples, Mount Abu (Rajasthan)",
+        "Dashavatara Temple, Deogarh (Uttar Pradesh)"
+      ],
+      "dynasticDistinction": "Nagara refers to the northern architectural order. Dynasties like the Guptas (classical originators), Gurjara-Pratiharas, Chandelas, Paramaras, and Solankis formulated specialized sub-schools (e.g., Khajuraho Latina/Sekhari type, Solanki Maru-Gurjara style).",
+      "image": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "vesara",
+      "name": "Vesara (Hybrid) Style",
+      "sanskritTerm": "वेसर वास्तुशैल्यम्",
+      "categoryType": "Architectural Style",
+      "primaryRegion": "Deccan Plateau (Karnataka, Maharashtra, Telangana, Andhra Pradesh)",
+      "historicalSpan": "7th Century CE – 13th Century CE",
+      "primaryMaterials": "Sandstone, Chlorite Schist, Basalt",
+      "coreFeatures": [
+        "Deliberate fusion of northern Nagara curvilinear profile with southern Dravidian tier articulation",
+        "Semi-circular or apsidal ground plan tendencies (Gajaprishtha / elephant back) in early examples",
+        "Reduced height of individual tiers with increased ornamental density",
+        "Wide pillared open mantapas facilitating community assembly"
+      ],
+      "sculpturalHallmarks": "Exceptional narrative density, vigorous anatomical modeling, expressive animal friezes, and richly articulated ceiling rosettes.",
+      "canonicalMonuments": [
+        "Virupaksha & Mallikarjuna Temples, Pattadakal (Karnataka)",
+        "Durga Temple & Lad Khan Temple, Aihole (Karnataka)",
+        "Ramappa Temple, Palampet (Telangana)"
+      ],
+      "dynasticDistinction": "Originating in the Malaprabha river valley under the Early Western Chalukyas of Badami, Vesara was further developed by the Rashtrakutas, Later Western Chalukyas of Kalyani, and Kakatiyas.",
+      "image": "https://images.unsplash.com/photo-1600100397608-f010e4299b15?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "hoysala",
+      "name": "Hoysala Style",
+      "sanskritTerm": "होय्सळ वास्तुशैल्यम्",
+      "categoryType": "Architectural & Dynastic Style",
+      "primaryRegion": "Southern Karnataka (Belur, Halebidu, Somanathapura)",
+      "historicalSpan": "11th Century CE – 14th Century CE (c. 1050–1343 CE)",
+      "primaryMaterials": "Chlorite Schist (Soft Soapstone that hardens over time)",
+      "coreFeatures": [
+        "Stellate (star-shaped) ground plan with multiple projecting points creating immense exterior surface area",
+        "Raised wide circumambulatory terrace (Jagati) without an enclosing compound wall",
+        "Multiple shrines joined to a common central navaranga hall (Ekokata, Dvikuta, Trikuta)",
+        "Horizontal plinth friezes arranged in strict canonical order: Elephants (stability), Lions (courage), Horses (speed), Floral scrolls (beauty), and Epic narratives"
+      ],
+      "sculpturalHallmarks": "Unrivalled micro-carving, deep undercutting where stone beads and ornaments can be freely touched behind figures, bracket maidens (Madanikas), and signed sculptor colophons.",
+      "canonicalMonuments": [
+        "Chennakeshava Temple, Belur (Karnataka)",
+        "Hoysaleswara & Shantaleswara Temple, Halebidu (Karnataka)",
+        "Keshava Temple, Somanathapura (Karnataka)"
+      ],
+      "dynasticDistinction": "Unique to the Hoysala realm. Enabled by the unique geological properties of chlorite schist and an imperial ethos that celebrated individual artisan identity.",
+      "image": "https://images.unsplash.com/photo-1600100397608-f010e4299b15?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "kalinga",
+      "name": "Kalinga Style",
+      "sanskritTerm": "कालिङ्ग वास्तुशैल्यम्",
+      "categoryType": "Architectural Style",
+      "primaryRegion": "Odisha and Northern Andhra Coastal Belt",
+      "historicalSpan": "6th Century CE – 14th Century CE",
+      "primaryMaterials": "Khondalite, Chlorite, Laterite, Sandstone",
+      "coreFeatures": [
+        "Deula architectural taxonomy: Rekha Deula (tall sanctum tower with curvilinear shikhara)",
+        "Pidhi Deula / Jagamohana (stepped pyramidal assembly hall for devotees)",
+        "Khakhara Deula (semi-cylindrical barrel-vaulted sanctum dedicated exclusively to Shakta goddesses)",
+        "Absence of interior pillars in monumental halls, relying on corbelled stone vaulting and iron beams"
+      ],
+      "sculpturalHallmarks": "Heavy, voluptuous feminine forms playing musical instruments, Alasa Kanyas (indolent maidens), colossal guardian animals, and astronomical wheel carvings.",
+      "canonicalMonuments": [
+        "Konark Sun Temple (Odisha)",
+        "Lingaraja Temple, Bhubaneswar (Odisha)",
+        "Jagannath Temple, Puri (Odisha)",
+        "Mukteshwara Temple, Bhubaneswar (Odisha)"
+      ],
+      "dynasticDistinction": "Patronized by the Sailodbhava, Bhauma-Kara, Somavamsi, and Eastern Ganga dynasties over eight centuries of continuous architectural evolution.",
+      "image": "https://images.unsplash.com/photo-1620619767323-b95a89183081?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "pallava",
+      "name": "Pallava Tradition",
+      "sanskritTerm": "पल्लव कलापरम्परा",
+      "categoryType": "Dynastic Tradition",
+      "primaryRegion": "Northern Tamil Nadu & Southern Andhra (Tondaimandalam)",
+      "historicalSpan": "6th Century CE – 9th Century CE",
+      "primaryMaterials": "Hard Granite, Gneiss rock",
+      "coreFeatures": [
+        "Four chronological evolutionary phases: Mahendra style (rock-cut pillared caves), Mamalla style (monolithic Rathas & open-air reliefs), Rajasimha style (early structural temples), Nandivarman style (small structural shrines)",
+        "Slender, lion-based pillar shafts (Simhavishnu columns) where rearing or seated lions support the capital",
+        "Kudu horseshoe-shaped arched dormer windows adorning cornices"
+      ],
+      "sculpturalHallmarks": "Slender, graceful figures with elongated limbs, naturalistic non-rigid postures, restrained jewelry, and deep spiritual introspection.",
+      "canonicalMonuments": [
+        "Arjuna's Penance & Pancha Rathas, Mamallapuram (Tamil Nadu)",
+        "Kailasanatha Temple, Kanchipuram (Tamil Nadu)",
+        "Shore Temple, Mamallapuram (Tamil Nadu)"
+      ],
+      "dynasticDistinction": "A foundational dynastic school that transitioned South Indian sacred architecture from perishable timber and brick to permanent stone carving ('Vichitrachitta' / genius innovator Mahendravarman I).",
+      "image": "https://images.unsplash.com/photo-1621847468516-1ed5d0df56fe?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "chola",
+      "name": "Chola Tradition",
+      "sanskritTerm": "चोल कलापरम्परा",
+      "categoryType": "Dynastic Tradition",
+      "primaryRegion": "Cauvery River Delta, Tamil Nadu",
+      "historicalSpan": "9th Century CE – 13th Century CE (c. 850–1279 CE)",
+      "primaryMaterials": "Gneissoid Granite, Lost-wax cast Panchaloha Bronze",
+      "coreFeatures": [
+        "Monumentalization of the Vimana tower, which dwarfed the entrance gopurams during the Imperial phase",
+        "Introduction of extensive royal inscriptions running along the base tiers detailing administration, arts, and endowments",
+        "Elaborate niche iconography (Devakoshtha) housing Ardhanarisvara, Dakshinamurti, Lingodbhava, and Durga"
+      ],
+      "sculpturalHallmarks": "Incomparable bronze metallurgical mastery (cire-perdue); rhythmic balance between muscular vigor and yogic serenity; iconic dancing Natarajas.",
+      "canonicalMonuments": [
+        "Brihadisvara Temple, Thanjavur (Tamil Nadu)",
+        "Gangaikonda Cholapuram Temple, Ariyalur (Tamil Nadu)",
+        "Airavatesvara Temple, Darasuram (Tamil Nadu)"
+      ],
+      "dynasticDistinction": "The maritime Chola empire exported this aesthetic across the Indian Ocean to Sri Lanka, Sumatra, and the Khmer Empire of Cambodia.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "vijayanagara",
+      "name": "Vijayanagara Tradition",
+      "sanskritTerm": "विजयनगर कलापरम्परा",
+      "categoryType": "Dynastic Tradition",
+      "primaryRegion": "Karnataka, Andhra Pradesh, Tamil Nadu",
+      "historicalSpan": "14th Century CE – 17th Century CE (c. 1336–1646 CE)",
+      "primaryMaterials": "Extremely hard Grey Granite",
+      "coreFeatures": [
+        "Vast multi-columned ceremonial halls (Kalyana Mandapa, Ranga Mandapa) with hundreds of ornate pillars",
+        "Towering Raya Gopurams welcoming pilgrims from afar",
+        "Integration of civic, defensive, and sacred spaces inside immense urban fortified complexes"
+      ],
+      "sculpturalHallmarks": "Rearing Yali and armed equestrian monoliths carved from solid granite pillars, musical SaReGaMa columns, stone chariots, and portrait sculptures of royal donors.",
+      "canonicalMonuments": [
+        "Vittala Temple & Virupaksha Temple, Hampi (Karnataka)",
+        "Veerabhadra Temple, Lepakshi (Andhra Pradesh)",
+        "Jalavandiswara Temple, Vellore Fort (Tamil Nadu)"
+      ],
+      "dynasticDistinction": "A pan-South Indian imperial resurgence that synthesized Kannada, Telugu, and Tamil artistic motifs to preserve and celebrate classical Indian heritage.",
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1200&q=80"
+    }
+  ]
+}
